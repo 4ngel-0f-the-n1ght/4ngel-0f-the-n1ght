@@ -8,4 +8,4 @@
 - ⚡ Fun fact: im new in this site
 
 
-[![My Skills](https://skillicons.dev/icons?i=unity,py,html,css,vscode,blender,bootstrap=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,py,html,css,vscode,blender&bootstrap=3)](https://skillicons.dev)
