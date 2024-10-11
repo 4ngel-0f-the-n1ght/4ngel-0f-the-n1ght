@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my studies
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with css
-- 💬 Ask me about nothing
+- 💬 Ask me about how good is elden ring
 - 😄 Pronouns: algum ai
 - ⚡ Fun fact: im new in this site
 
